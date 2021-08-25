@@ -6,8 +6,12 @@ export default styled.div`
   align-items: center;
   height: 250px;
   width: 100%;
-  background-color: #00008B;
+  background-color: rgba(120, 55, 200, 0.2);
   color: #fff;
   margin: 0 15px;
   font-size: 4em;
+  
+  img{
+    width: 100%;
+  }
 `;
